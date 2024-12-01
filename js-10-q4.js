@@ -5,4 +5,4 @@ const obj = {
     return `${hello} aps?!`;
   },
 };
-console.log(obj.func()); // answer is?:
+console.log(obj.func()); // answer is?: what's up aps?!

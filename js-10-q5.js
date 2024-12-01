@@ -9,3 +9,12 @@
 */
 
 /**Write your code below  */
+const obj1 ={
+    Mike:"tall",
+    Jake:"kind",
+    Lilly:"young",
+}
+for( const value in obj1){
+ console.log(`${value} is ${obj1[value]}`);
+ 
+}

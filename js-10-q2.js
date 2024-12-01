@@ -6,4 +6,9 @@ let car = {
     carename: "benz",
      model: "2017" ,
      color:"yellow",
+     SHASI:"SALEM",
     };
+    console.log(car.carename);
+    console.log(car["carename"]);
+    
+    
